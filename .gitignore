@@ -1,0 +1,31 @@
+node_modules
+.env
+pnpm-lock.yaml
+mongo-data/
+debug-bbbbb5.log
+
+
+# Large files
+*.rar
+*.zip
+*.7z
+
+# Node modules
+node_modules/
+.next/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
